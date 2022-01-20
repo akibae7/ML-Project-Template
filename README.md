@@ -15,39 +15,39 @@ The  class labels are:
 <br>
 **4. dual_sim:** ->Has dual sim support or not
 <br>
-**5. fc:** Given iris flower belongs to the Virginica species
+**5. fc:** ->Front Camera mega pixels
 <br>
-**6. four_g** Given iris flower belongs to the Versicolor species
+**6. four_g** ->Has 4G or not
 <br>
-**7. int_memory:** Given iris flower belongs to the Setosa species
+**7. int_memory:** ->Internal Memory in Gigabytes
 <br>
-**8. m_dep:** Given iris flower belongs to the Virginica species
+**8. m_dep:** ->Mobile Depth in cm
 <br>
-**9. mobile_wt** Given iris flower belongs to the Versicolor species
+**9. mobile_wt** ->Weight of mobile phone
 <br>
-**10. n_cores** Given iris flower belongs to the Setosa species
+**10. n_cores** ->Number of cores of processor
 <br>
-**11. pc** Given iris flower belongs to the Virginica species
+**11. pc** ->Primary Camera mega pixels 
 <br>
-**12. px_height:** Given iris flower belongs to the Versicolor species
+**12. px_height:** ->Pixel Resolution Height
 <br>
-**13. px_width** Given iris flower belongs to the Virginica species
+**13. px_width** ->Pixel Resolution Width
 <br>
-**14. ram** Given iris flower belongs to the Versicolor species
+**14. ram** ->Random Access Memory in Megabytes
 <br>
-**15. sc_h** Given iris flower belongs to the Setosa species
+**15. sc_h** ->Screen Height of mobile in cm
 <br>
-**16. sc_w** Given iris flower belongs to the Virginica species
+**16. sc_w** ->Screen Width of mobile in cm
 <br>
-**17. talk_time** Given iris flower belongs to the Versicolor species
+**17. talk_time** ->longest time that a single battery charge will last when you are
 <br>
-**18. three_g** Given iris flower belongs to the Setosa species
+**18. three_g** ->Has 3G or not
 <br>
-**19. touch_screen** Given iris flower belongs to the Virginica species
+**19. touch_screen** ->Has touch screen or not
 <br>
-**20. wifi** Given iris flower belongs to the Versicolor species
+**20. wifi** ->Has wifi or not
 <br>
-**21. price_range:** Given iris flower belongs to the Setosa species
+**21. price_range:** Gives price range for the mobile
 <br>
 
 
