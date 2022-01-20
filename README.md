@@ -2,29 +2,53 @@
 This should be a brief description of the domain of your dataset (e.g. if it is the Titanic Dataset then write about the ship, the incident that happened, what you're trying to do with the data).
 ## Dataset
 
-The dataset used is the [Name of the Dataset](Download link) from (source of download e.g Kaggle). If the task is a classification task, then you must specify the number of classes and give a 1 line description of each class as follows(example of Iris Dataset). 
+The dataset used is the [Mobile Price Classification](https://www.kaggle.com/iabhishekofficial/mobile-price-classification) . 
 
-The 3 class labels are:
+The  class labels are:
 <br>
 
-**1. Iris Setosa:** Given iris flower belongs to the Setosa species
+**1. battery_power:** Given iris flower belongs to the Setosa species
 <br>
-**2. Iris Virginica:** Given iris flower belongs to the Virginica species
+**2. blue:** Given iris flower belongs to the Virginica species
 <br>
-**3. Iris Versicolor:** Given iris flower belongs to the Versicolor species
-
-If the task is a regression task, then explain the target variable and give brief statistics.(e.g. Housing Prices)
-
-**Target Variable: SalePrice**
+**3. clock_speed:** Given iris flower belongs to the Versicolor species
 <br>
+**4. dual_sim:** Given iris flower belongs to the Setosa species
 <br>
-Sale Price refers to the selling price of the house.
+**5. fc:** Given iris flower belongs to the Virginica species
 <br>
-**Mean Selling Price:** 121,000$
+**6. four_g** Given iris flower belongs to the Versicolor species
 <br>
-**Max Selling Price:** 1,000,000$
+**7. int_memory:** Given iris flower belongs to the Setosa species
 <br>
-**Min Selling Price:** 45,000$
+**8. m_dep:** Given iris flower belongs to the Virginica species
+<br>
+**9. mobile_wt** Given iris flower belongs to the Versicolor species
+<br>
+**10. n_cores** Given iris flower belongs to the Setosa species
+<br>
+**11. pc** Given iris flower belongs to the Virginica species
+<br>
+**12. px_height:** Given iris flower belongs to the Versicolor species
+<br>
+**13. px_width** Given iris flower belongs to the Virginica species
+<br>
+**14. ram** Given iris flower belongs to the Versicolor species
+<br>
+**15. sc_h** Given iris flower belongs to the Setosa species
+<br>
+**16. sc_w** Given iris flower belongs to the Virginica species
+<br>
+**17. talk_time** Given iris flower belongs to the Versicolor species
+<br>
+**18. three_g** Given iris flower belongs to the Setosa species
+<br>
+**19. touch_screen** Given iris flower belongs to the Virginica species
+<br>
+**20. wifi** Given iris flower belongs to the Versicolor species
+<br>
+**21. price_range:** Given iris flower belongs to the Setosa species
+<br>
 
 
 ## Model(s) Used
