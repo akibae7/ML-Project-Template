@@ -7,13 +7,13 @@ The dataset used is the [Mobile Price Classification](https://www.kaggle.com/iab
 The  class labels are:
 <br>
 
-**1. battery_power:** Given iris flower belongs to the Setosa species
+**1. battery_power:** ->Total energy a battery can store in one time measured in mAh
 <br>
-**2. blue:** Given iris flower belongs to the Virginica species
+**2. blue:** ->Has bluetooth or not
 <br>
-**3. clock_speed:** Given iris flower belongs to the Versicolor species
+**3. clock_speed:** ->speed at which microprocessor executes instructions
 <br>
-**4. dual_sim:** Given iris flower belongs to the Setosa species
+**4. dual_sim:** ->Has dual sim support or not
 <br>
 **5. fc:** Given iris flower belongs to the Virginica species
 <br>
