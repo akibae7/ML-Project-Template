@@ -53,13 +53,13 @@ The  class labels are:
 
 ## Model(s) Used
 
-1. K Nearest Neighbours: This model is most useful in data which can be linearly separated. It simply finds the "K nearest neighbours" and uses the hoghest class occurence as the final class preidction.
+1. **K Nearest Neighbours:** This model is most useful in data which can be linearly separated. It simply finds the "K nearest neighbours" and uses the hoghest class occurence as the final class preidction.
 
-2. Naive Bayes: Naive Bayes classifiers are a collection of classification algorithms based on Bayes’ Theorem. It is not a single algorithm but a family of algorithms where all of them share a common principle, i.e. every pair of features being classified is independent of each other.
+2. **Naive Bayes**: Naive Bayes classifiers are a collection of classification algorithms based on Bayes’ Theorem. It is not a single algorithm but a family of algorithms where all of them share a common principle, i.e. every pair of features being classified is independent of each other.
 
-3. Decision Tree Classifier: This model identifies the most informative attribute at every level and uses it to make a tree. The final tree can then be used as a simple if-else statement to identify the final prediction.
+3. **Decision Tree Classifier**: This model identifies the most informative attribute at every level and uses it to make a tree. The final tree can then be used as a simple if-else statement to identify the final prediction.
 
-4. Logistic Regression: Logistic regression predicts the output of a categorical dependent variable. Therefore the outcome must be a categorical or discrete value. It can be either Yes or No, 0 or 1, true or False, etc. but instead of giving the exact value as 0 and 1, it gives the probabilistic values which lie between 0 and 1.
+4. **Logistic Regression**: Logistic regression predicts the output of a categorical dependent variable. Therefore the outcome must be a categorical or discrete value. It can be either Yes or No, 0 or 1, true or False, etc. but instead of giving the exact value as 0 and 1, it gives the probabilistic values which lie between 0 and 1.
 
 
 
