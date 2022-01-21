@@ -1,5 +1,5 @@
 # Problem Statement 
-This should be a brief description of the domain of your dataset (e.g. if it is the Titanic Dataset then write about the ship, the incident that happened, what you're trying to do with the data).
+In this dataset , datab collected are the sales data of mobile phones of various companies . In the competitive mobilephone market you cannot simply assume things . In this problem we have to predict the price range indicationg how high 
 ## Dataset
 
 The dataset used is the [Mobile Price Classification](https://www.kaggle.com/iabhishekofficial/mobile-price-classification) . 
