@@ -63,5 +63,3 @@ The  class labels are:
 
 
 
-## Future Work
-Good ideas or strategies that you were not able to implement which you think can help  improve performance.
