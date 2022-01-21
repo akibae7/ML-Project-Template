@@ -1,5 +1,5 @@
 # Problem Statement 
-In this dataset , datab collected are the sales data of mobile phones of various companies . In the competitive mobilephone market you cannot simply assume things . In this problem we have to predict the price range indicationg how high 
+In this dataset , data collected are the sales data of mobile phones of various companies . In the competitive mobilephone market you cannot simply assume things . In this problem to estimate the price of mobiles this company creates we have to predict the price range indicationg how high the price is by finding out some relation between the features of a mobile phone.
 ## Dataset
 
 The dataset used is the [Mobile Price Classification](https://www.kaggle.com/iabhishekofficial/mobile-price-classification) . 
